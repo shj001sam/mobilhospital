@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "534688479490",
+    "project_id": "mobilhospital",
+    "storage_bucket": "mobilhospital.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534688479490:android:af2556db541430ef4d2a1b",
+        "android_client_info": {
+          "package_name": "com.shj.mobilhospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534688479490-9lh738shqr721qmo2gfapfavnfbp5mja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1myAYMF56jm2fuCdaGKPcNTmgN4LuGcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534688479490-9lh738shqr721qmo2gfapfavnfbp5mja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
